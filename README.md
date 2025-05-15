@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/TucaBSS1/TucaBSS1/blob/main/github-header-image.png" align="center" style="width: 100%" />
+<img src="[https://github.com/TucaBSS1/TucaBSS1/blob/main/github-header-image.png](https://raw.githubusercontent.com/TucaBSS1/TucaBSS1/refs/heads/main/github-header-image.png)" align="center" style="width: 100%" />
 </div>  
   
 
