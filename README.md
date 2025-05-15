@@ -1,6 +1,7 @@
 <div align="center">
-<img src="[https://github.com/TucaBSS1/TucaBSS1/blob/main/github-header-image.png](https://raw.githubusercontent.com/TucaBSS1/TucaBSS1/refs/heads/main/github-header-image.png)" align="center" style="width: 100%" />
+<img src="https://github.com/user-attachments/assets/adf95a26-3ae9-49da-ac56-0cbe437135ea" align="center" style="width: 100%" />
 </div>  
+
   
 
 ### <div align="center">Eu sou Diogo, estou estudando para ser desenvolvedor full-stack 🚀 Atualmente não trabalho na área🦾</div>  
