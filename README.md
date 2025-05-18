@@ -103,7 +103,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=TucaBSS1&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=diogobssdev1&&style=flat-square" align="center" />
 </div>  
   
 
